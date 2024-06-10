@@ -1,4 +1,4 @@
-# Maharashtra-Election-Analysislysis
+# Maharashtra-Election-Analysis
 Data Visualization of Maharashtra election results and voting patterns in the past three elections.
 
 This project was done during my internship with **Ringside Research and Media LLP.** I have meticulously analyzed the voting patterns and conducted a region-wise analysis of the last three Maharashtra elections. This comprehensive project paints a vivid picture of Maharashtra's political dynamics, highlighting the trends and shifts in voter preferences over the years.
