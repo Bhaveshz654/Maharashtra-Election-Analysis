@@ -14,4 +14,7 @@ Regions include:
 6. Mumbai Region
    
 📉 Voting pattern trends that reveal the rise and fall of major parties and the emergence of new political players.
+
 🌍 An interactive map visualizing the electoral shifts across Maharashtra's diverse landscape.
+
+**Data is collected from Election Commission's website**
